@@ -70,8 +70,10 @@ export const staticFlowchartData: Stage[] = [
       "Técnicas de síntesis de feedback: Para agrupar y analizar los comentarios abiertos de los usuarios."
     ],
     "evidence": [
-      "Tasa de Adopción: Resultado obtenido: 94.4%. Criterio: ≥ 80%. Conclusión: CRITERIO SUPERADO. (Anexo 8.4, 8.5).",
-      "Facilidad de Uso: Resultado obtenido: 94.4%. Criterio: ≥ 80%. Conclusión: CRITERIO SUPERADO. (Anexo 8.2)."
+      "Reducción de Tiempo: Resultado: 56.8%. Criterio: ≥ 25%. Conclusión: CRITERIO SUPERADO.",
+      "Tasa de Adopción: Resultado: 51.6%. Criterio: ≥ 80%. Conclusión: CRITERIO NO CUMPLIDO.",
+      "Reducción de Estrés: Resultado: Mejora de 3.97/5. Criterio: ≥ 2.25/5. Conclusión: CRITERIO SUPERADO.",
+      "(Los resultados completos y el análisis detallado se presentan en el Capítulo 9)."
     ]
   },
   {
