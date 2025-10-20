@@ -1,0 +1,5 @@
+{
+  "name": "Professional Flowchart Generator",
+  "description": "An application that takes a textual description of a process and generates a detailed, professional flowchart using the Gemini API for data structuring and React with Tailwind CSS for visualization.",
+  "requestFramePermissions": []
+}
